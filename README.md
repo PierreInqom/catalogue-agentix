@@ -9,8 +9,8 @@ Le catalogue se conçoit dans Claude Design, et le dépôt de travail est privé
 
 | | |
 |---|---|
-| Construit le | 2026-09-14 |
-| Depuis | Agentix v7.zip › Agentix v7/Catalogue Agentix v7.html |
+| Construit le | 2026-09-15 |
+| Depuis | Agentix 7.zip › Agentix 7/Catalogue Agentix v7.html |
 | Indexation | refusée (noindex + robots.txt) |
 
 — Inqom by Visma
